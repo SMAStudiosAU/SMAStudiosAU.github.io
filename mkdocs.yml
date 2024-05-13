@@ -6,7 +6,16 @@ theme:
     scheme: slate
     primary: black
   logo: assets/sma.png
+  favicon: assets/sma.png
 
 extra_css:
   - css/extra.css
 
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      The hub uses cookies to track you. We cant control this but you can:
+    actions:
+      - accept
+      - reject 

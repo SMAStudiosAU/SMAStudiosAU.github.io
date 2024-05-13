@@ -1,1 +1,5 @@
+---
+hide:
+    - heading
+---
 # Home
