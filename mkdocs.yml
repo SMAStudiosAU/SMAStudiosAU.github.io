@@ -7,6 +7,18 @@ theme:
     primary: black
   logo: assets/sma.png
   favicon: assets/sma.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
 
 extra_css:
   - css/extra.css
+
+copyright: "&copy; SMAStudios <br /> you are smasnug"
+
+extra:
+  generator: false

@@ -1,5 +1,7 @@
 ---
 hide:
-    - heading
+    - toc
+    - navigation
+title: Home
 ---
-# Home
+# SMAStudios
