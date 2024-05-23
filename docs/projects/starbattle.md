@@ -1,8 +1,8 @@
 # Star Battles
 
 
-??? Credits
+??? info end "Credits"
 
     Icons from [Material Icons](https://fonts.google.com/icons){:target="_blank"}
 
-    Font: Product Sans
+    Font: [Roboto (Google Fonts)](https://fonts.google.com/specimen/Roboto){:target="_blank"}
