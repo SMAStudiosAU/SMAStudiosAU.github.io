@@ -9,5 +9,5 @@
 
     Font: [Roboto (Google Fonts)](https://fonts.google.com/specimen/Roboto){:target="_blank"}
 
-    Some sounds from Soundtrap Originals (Royalty-free)
+    Music from [MusixFX](https://aitestkitchen.withgoogle.com/tools/music-fx){:target="_blank"}
 
