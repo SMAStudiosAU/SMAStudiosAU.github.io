@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   ![SatR BTTlaLE IMAGeeeeee](https://dummyimage.com/640x360/){ width="100%" }
+-   ![SatR BTTlaLE IMAGeeeeee](/assets/starbtallte.svg){ width="100%" }
 
     __Star Battles__
 
