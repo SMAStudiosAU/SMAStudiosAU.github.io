@@ -3,7 +3,7 @@
 <a href="/Star-Battles" class="md-button">Play</a>
 <a href="https://github.com/SMAStudiosAU/Star-Battles" class="md-button">Source Code</a>
 
-??? info end "Credits"
+!!! info end "Credits"
 
     Icons from [Material Icons](https://fonts.google.com/icons){:target="_blank"}
 
