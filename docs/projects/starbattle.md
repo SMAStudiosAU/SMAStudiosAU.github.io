@@ -1,10 +1,7 @@
 # Star Battles
 
-<p style="text-align: right">
-<a href="javascript:document.getElementById('gmae').requestFullscreen()" class="md-button">Fullscreen</a>
-</p>
-
-<iframe style="width: 100%; aspect-ratio: 16/9" src="/Star-Battles/main.html" id="gmae" frameborder="0"></iframe>
+<a href="/Star-Battles" class="md-button">Play</a>
+<a href="https://github.com/SMAStudiosAU/Star-Battles" class="md-button">Source Code</a>
 
 ??? info end "Credits"
 
@@ -14,4 +11,3 @@
 
     Some sounds from Soundtrap Originals (Royalty-free)
 
-<a href="https://github.com/SMAStudiosAU/Star-Battles" class="md-button">Source Code</a>
